@@ -1,0 +1,34 @@
+_repo: Satanella-A-Story-of-Punchestown_56753
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Whyte-Melville, G. J. (George John)
+    aliases:
+    - Whyte-Melville, George John
+    - Melville, G. J. Whyte
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '3832'
+    url: http://www.gutenberg.org/2009/agents/3832
+    wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
+  - agent_name: Kemp-Welch, Lucy
+    alias: Kemp-Welch, Lucy E.
+    birthdate: 1869
+    deathdate: 1958
+    gutenberg_agent_id: '32524'
+    url: http://www.gutenberg.org/2009/agents/32524
+description: ''
+gutenberg_issued: '2018-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Satanella
+
+  A Story of Punchestown'
+url: http://www.gutenberg.org/ebooks/56753
